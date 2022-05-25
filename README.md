@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SourinDas2000
-- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
-- 🌱 I know advance Python, know basics of Data Science and currently is focusing on Machine Learning. I am a bachelor's degree student of Economics (hons).
+- 👋 Hi, I’m @SourinDas2000 / Sourin Das
+- 👀 I’m interested in DataScience, DataAnalysis, ArtificialIntelligence, MachineLearning, and DeepLearning.
+- 🌱 I know advanced Python, know the basics of Data Science, and know modules like Numpy, Scipy, Pandas, Matplotlib, Seaborn, and Sklearn. Currently, I'm focusing on Machine Learning and Deep Learning. I am a bachelor's degree student of Economics (hons).
 - 💞️ I want to become a Data Scientist.
 - 📫 Mail me at sourindaz@gmail.com
 
